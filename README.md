@@ -1,2 +1,1 @@
-# sefi_project
-aplikasi data stok toko
+Aplikasi Stok Barang
